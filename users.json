@@ -1,0 +1,213 @@
+{
+  "metadata": {
+    "kelas": "XII.9",
+    "jumlah_siswa": 34,
+    "updated": "2026-08-17T08:20:07.234Z"
+  },
+  "siswa": [
+    {
+      "id": 1786954550119,
+      "nama": "ABIB HIDAYATULLAH",
+      "nohp": "0895704251090",
+      "kelas": "XII.9"
+    },
+    {
+      "id": 1786954550120,
+      "nama": "AEREN NAYLA PUTRI",
+      "nohp": "08116650620",
+      "kelas": "XII.9"
+    },
+    {
+      "id": 1786954550121,
+      "nama": "APRILIANI SAKINAH",
+      "nohp": "088271932710",
+      "kelas": "XII.9"
+    },
+    {
+      "id": 1786954550122,
+      "nama": "AURA FADILLAH",
+      "nohp": "082173041104",
+      "kelas": "XII.9"
+    },
+    {
+      "id": 1786954550123,
+      "nama": "AYATUL SYIFA AINI",
+      "nohp": "087765327256",
+      "kelas": "XII.9"
+    },
+    {
+      "id": 1786954550124,
+      "nama": "DANEL MARDIANTO",
+      "nohp": "085263962720",
+      "kelas": "XII.9"
+    },
+    {
+      "id": 1786954550125,
+      "nama": "DE LUCKY AULIA FITHRI",
+      "nohp": "088211864724",
+      "kelas": "XII.9"
+    },
+    {
+      "id": 1786954550126,
+      "nama": "EVAN ANDRA ADITYA",
+      "nohp": "085664086835",
+      "kelas": "XII.9"
+    },
+    {
+      "id": 1786954550127,
+      "nama": "FANDRI",
+      "nohp": "082391247240",
+      "kelas": "XII.9"
+    },
+    {
+      "id": 1786954550128,
+      "nama": "FAREL DAVA ARCANA",
+      "nohp": "081365850340",
+      "kelas": "XII.9"
+    },
+    {
+      "id": 1786954550129,
+      "nama": "FAUZAN FAIQ",
+      "nohp": "081363293449",
+      "kelas": "XII.9"
+    },
+    {
+      "id": 1786954550130,
+      "nama": "FIRJATULLAH ANARGYA MUFTI",
+      "nohp": "085263879186",
+      "kelas": "XII.9"
+    },
+    {
+      "id": 1786954550131,
+      "nama": "GILANG DWI GUSTIANSYAH",
+      "nohp": "085213950554",
+      "kelas": "XII.9"
+    },
+    {
+      "id": 1786954550132,
+      "nama": "GRESHILA MAHAR RANI",
+      "nohp": "082172948300",
+      "kelas": "XII.9"
+    },
+    {
+      "id": 1786954550133,
+      "nama": "KANSYA DE BILQISH KURNIAWAN",
+      "nohp": "081268336578",
+      "kelas": "XII.9"
+    },
+    {
+      "id": 1786954550134,
+      "nama": "KAYLA YASINTA",
+      "nohp": "082387451334",
+      "kelas": "XII.9"
+    },
+    {
+      "id": 1786954550135,
+      "nama": "LEDY TRISYAILA",
+      "nohp": "083194269798",
+      "kelas": "XII.9"
+    },
+    {
+      "id": 1786954550136,
+      "nama": "MAULANA AKBAR ZAARIF",
+      "nohp": "085760928710",
+      "kelas": "XII.9"
+    },
+    {
+      "id": 1786954550137,
+      "nama": "MUHAMAD JOE MARLINO",
+      "nohp": "-",
+      "kelas": "XII.9"
+    },
+    {
+      "id": 1786954550138,
+      "nama": "MUHAMMAD DZAKY AVERTO",
+      "nohp": "085364081881",
+      "kelas": "XII.9"
+    },
+    {
+      "id": 1786954550139,
+      "nama": "MUHAMMAD REVANDA AKBAR",
+      "nohp": "082379302999",
+      "kelas": "XII.9"
+    },
+    {
+      "id": 1786954550140,
+      "nama": "NADA JISSA ALGIRA",
+      "nohp": "089504120507",
+      "kelas": "XII.9"
+    },
+    {
+      "id": 1786954550141,
+      "nama": "PUNDI HABIBI",
+      "nohp": "083164330654",
+      "kelas": "XII.9"
+    },
+    {
+      "id": 1786954550142,
+      "nama": "REOS PUTRA ALAM",
+      "nohp": "083160539570",
+      "kelas": "XII.9"
+    },
+    {
+      "id": 1786954550143,
+      "nama": "REVANO PRATAMA",
+      "nohp": "085263578810",
+      "kelas": "XII.9"
+    },
+    {
+      "id": 1786954550144,
+      "nama": "SAHIRAH",
+      "nohp": "083169856219",
+      "kelas": "XII.9"
+    },
+    {
+      "id": 1786954550145,
+      "nama": "SEIZYA NAYLATUL FADHILLAH",
+      "nohp": "083193415839",
+      "kelas": "XII.9"
+    },
+    {
+      "id": 1786954550146,
+      "nama": "SERGIO FERDINAN VELAZCO",
+      "nohp": "082216161168",
+      "kelas": "XII.9"
+    },
+    {
+      "id": 1786954550147,
+      "nama": "SITI JULIA ISRA",
+      "nohp": "081261009679",
+      "kelas": "XII.9"
+    },
+    {
+      "id": 1786954550148,
+      "nama": "SOFRIZAL AZIZ",
+      "nohp": "0895320302586",
+      "kelas": "XII.9"
+    },
+    {
+      "id": 1786954550149,
+      "nama": "THIRAFI SAYYID RASIS",
+      "nohp": "083167202837",
+      "kelas": "XII.9"
+    },
+    {
+      "id": 1786954550150,
+      "nama": "TRESYA AYUMI BALQISH",
+      "nohp": "089620304422",
+      "kelas": "XII.9"
+    },
+    {
+      "id": 1786954550151,
+      "nama": "WANGI HIDAYATI",
+      "nohp": "082384943479",
+      "kelas": "XII.9"
+    },
+    {
+      "id": 1786954550152,
+      "nama": "WANGI KHUMAIRA PUTRI",
+      "nohp": "083176481643",
+      "kelas": "XII.9"
+    }
+  ]
+}
